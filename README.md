@@ -11,7 +11,7 @@ The dataset, hosted on Relevance AI, contains 123 examples derived from official
 
 ## Usage
 1. Sign up or log in to [Relevance AI](https://relevanceai.com).
-2. Navigate to the [OPSEC Compliance Analyzer interface](https://app.relevanceai.com](https://app.relevanceai.com/notebook/bcbe5a/94b701052be5-44a9-8b60-63766cc9cd51/5d3e49f8-44f9-4e00-90ad-7f0c057b7f59).
+2. Navigate to the [OPSEC Compliance Analyzer interface](https://app.relevanceai.com/notebook/bcbe5a/94b701052be5-44a9-8b60-63766cc9cd51/5d3e49f8-44f9-4e00-90ad-7f0c057b7f59).
 3. Paste your document into the input field.
 4. Submit for analysis.
 5. Review the output for potential risks and suggestions for revision.
