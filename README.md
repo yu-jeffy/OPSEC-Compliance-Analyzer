@@ -15,27 +15,3 @@ The dataset, hosted on Relevance AI, contains 123 examples derived from official
 3. Paste your document into the input field.
 4. Submit for analysis.
 5. Review the output for potential risks and suggestions for revision.
-
-## Example
-Input and response examples are provided to illustrate the tool's capabilities in identifying potential OPSEC risks and offering corrective feedback.
-
-## Development
-This section outlines the prompt development process and the AI's training on OPSEC protocols, based on official United States Air Force guidelines.
-
-## Analysis Workflow
-A detailed description of the analysis workflow, from input submission to the vector search analysis and the resulting alert system for potential OPSEC risks.
-
-## Potential Impact
-The integration of this tool could significantly increase efficiency in operational planning and enhance security protocols across military operations worldwide.
-
-## Contributing
-Guidelines for contributing to the project for developers interested in enhancing the tool or collaborating on its development.
-
-## License
-Details of the license governing the use and distribution of the tool.
-
-## Acknowledgments
-Recognition of individuals or organizations that contributed to the development and success of the project.
-
-## Contact
-Information for users to seek support or ask questions regarding the tool.
